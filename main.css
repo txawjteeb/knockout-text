@@ -1,0 +1,15 @@
+body {
+  background-color: #000;
+  color: #FFF;
+}
+
+.knockout {
+  font-family: sans-serif;
+  font-size:28vw;
+  font-weight:bold;
+  text-transform:uppercase;
+  background:url('https://media.giphy.com/media/SuG8hEiyKDCDe/giphy.gif');
+  background-size: 1500px 720px;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
